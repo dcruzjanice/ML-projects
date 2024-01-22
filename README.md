@@ -1,6 +1,6 @@
 # ML-projects
 
-This repository contains a collection of basic machine learning projects covering various topics. Each project is designed to provide a hands-on understanding of different machine learning concepts and techniques.
+Learning machine learning through projects covering various topics. Each project is designed to provide a hands-on understanding of different machine learning concepts and techniques.
 
 ## Topics
 
